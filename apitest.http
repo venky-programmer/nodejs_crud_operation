@@ -1,3 +1,0 @@
-GET http://localhost:9001/api/users?id=62b018d120de8426fb6c42a9
-Content-Type: application/x-www-form-urlencoded
-
